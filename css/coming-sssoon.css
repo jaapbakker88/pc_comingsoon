@@ -726,8 +726,14 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     margin-top: 150px;
     z-index: 3;
 }
+
+/*font-family:'Avenir Next LT W04 Bold';
+font-family:'AvenirNextLTW01-Regular';
+font-family:'AvenirNextLTW01-Italic';*/
+
+
 .main .logo.cursive{
-    /*font-family: 'Grand Hotel',cursive;*/
+    font-family: 'Avenir Next LT W04 Bold';
     font-size: 82px;
     
 }
